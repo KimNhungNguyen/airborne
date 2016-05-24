@@ -1,6 +1,12 @@
 {
 	"cars":[
-		{"make": "Tesla", "model": "Model S"},
-		{"make": "Lamborghini", "model": "Aventador"}
+		{
+		  "make": "Tesla",
+		  "model": "Model S"
+		},
+		{
+		  "make": "Lamborghini",
+		  "model": "Aventador"
+		}
 	]
 }

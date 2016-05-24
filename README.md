@@ -1,3 +1,8 @@
+Questions:
+= Read spec_helper and stub_helper
+= Why test need to be in format _spec.rb
+= Understand how stub_helper.rb work
+
 # Airborne
 
 [![airborne travis](http://img.shields.io/travis/brooklynDev/airborne.svg?branch=master&style=flat-square)](https://travis-ci.org/brooklynDev/airborne)
