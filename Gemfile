@@ -5,6 +5,7 @@ gem 'rest-client'
 gem 'rack-test'
 gem 'activesupport'
 gem 'coveralls', require: false
+gem 'airborne'
 
 group :test do
   gem 'webmock'
